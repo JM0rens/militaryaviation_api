@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "cf1d8d7d-e153-4cdf-812c-49d31bd6deb9",
+		"name": "Prog3_MilitaryAviation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49408387",
+		"_collection_link": "https://jm0rens-1517660.postman.co/workspace/jm0rens's-Workspace~d0f9292b-21aa-4582-8cc3-fd4dd3f110d1/collection/49408387-cf1d8d7d-e153-4cdf-812c-49d31bd6deb9?action=share&source=collection_link&creator=49408387"
+	},
+	"item": [
+		{
+			"name": "Saludo Campeones",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/prog3",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"prog3"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
